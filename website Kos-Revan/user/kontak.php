@@ -19,7 +19,7 @@ body {
             </p>
 
             <!-- Tombol WhatsApp -->
-            <a href="https://wa.me/6282246193969" class="btn btn-success w-100" target="_blank">
+            <a href="https://wa.me/6293768102839" class="btn btn-success w-100" target="_blank">
                 <i class="bi bi-whatsapp"></i> Chat via WhatsApp
             </a>
         </div>
@@ -28,4 +28,5 @@ body {
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 <?php include("inc_footer.php"); ?>
